@@ -18,3 +18,5 @@ An addon for Garry's mod that improves the respawn system and adds more features
 Yes! you can and if you want to share your project publicly you don't have to ask my permission.
 ### Where can I find the modification source code?
 In this repository in the ` src ` folder! :D
+
+# **This modification is not compatible with other modifications that change the death screen and may generate errors when such a modification is enabled.**
