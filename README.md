@@ -7,4 +7,4 @@ An addon for Garry's mod that improves the respawn system and adds more features
 * Open Source (can you see or edit code of modification)
 + Balanced respawn system
 ### Video Introduction:
-![](https://www.youtube.com/watch?v=Bja6EVuh6_I)
+[![](https://img.youtube.com/vi/Bja6EVuh6_I/0.jpg)](https://www.youtube.com/watch?v=Bja6EVuh6_I)
