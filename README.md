@@ -14,3 +14,7 @@ An addon for Garry's mod that improves the respawn system and adds more features
 - [YouTube Introduction](https://www.youtube.com/watch?v=Bja6EVuh6_I)
 * [GitHub Source Code](https://github.com/Wizzy-TV/Better-Respawn)
 + [Steam Workshop Dowload](https://steamcommunity.com/sharedfiles/filedetails/?id=3189603032)
+### Can I use your code to improve my project?
+Yes! you can and if you want to share your project publicly you don't have to ask my permission.
+### Where can I find the modification source code?
+In this repository in the ` src ` folder! :D
